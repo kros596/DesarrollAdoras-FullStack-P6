@@ -4,7 +4,7 @@
   La finalidad del proyecto será el registro de usuarios en la tabla 'usuario' ya generada.
 </p>
 <p>
-  La presente entrega cuenta con los ficheros necesarios para el correcto funcionamiento de la aplicación:
+  La presente entrega cuenta con los ficheros necesarios para el correcto funcionamiento de la aplicación: el archivo para la tabla de la base de datos (usuario.sql) y un archivo comprimido que contiene los siguientes elementos:
   <ul>
     <li>formulario.html: Documento HTML con el contenido del formulario de inscripción.</li>
     <li>formulario.js: Documento JavaScript que ejecuta las funciones de validación de las entradas del usuario.</li>
