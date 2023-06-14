@@ -4,7 +4,7 @@
   La finalidad del proyecto será el registro de usuarios en la tabla 'usuario' ya generada.
 </p>
 <p>
-  La presente entrega cuenta con los ficheros necesarios para el correcto funcionamiento de la aplicación y, dentro del directorio 'cursoSQL', se localizan los archivos de la práctica:
+  La presente entrega cuenta con los ficheros necesarios para el correcto funcionamiento de la aplicación:
   <ul>
     <li>formulario.html: Documento HTML con el contenido del formulario de inscripción.</li>
     <li>formulario.js: Documento JavaScript que ejecuta las funciones de validación de las entradas del usuario.</li>
